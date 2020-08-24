@@ -2,7 +2,9 @@
 
 Game with branching decision-based stories
 
-demo: https://drive.google.com/file/d/107lh4jnbbHD0VaikBABIj0oQsF15ZuTH/view?usp=sharing
+## Demo
+
+https://drive.google.com/file/d/107lh4jnbbHD0VaikBABIj0oQsF15ZuTH/view?usp=sharing
 
 ## Getting Started
 
