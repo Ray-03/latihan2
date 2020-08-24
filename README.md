@@ -6,6 +6,10 @@ Game with branching decision-based stories
 
 https://drive.google.com/file/d/107lh4jnbbHD0VaikBABIj0oQsF15ZuTH/view?usp=sharing
 
+## .apk
+
+https://drive.google.com/file/d/1GAXp6JOlgKSxPqNHkqroCm7JUdLL-W50/view?usp=sharing
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
